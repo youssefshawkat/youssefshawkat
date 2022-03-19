@@ -5,19 +5,20 @@ a Motivated 3rd-year Computer Science student currently studying at Cairo Univer
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
-- 
+
 - Computer Graphics
 - Concepts of Programming Languages
 - Aritifical Inteligence
 - High Performance Computing
 - Computer Graphics
-- 
+ 
 - 👯 I’m looking to collaborate on ...
-- 
+
 - Open Source Projects
 - Hackathons
 - Competitive Programming
-- 
+
+
 👨‍💻 My Projects ...
 
 -A Program for Booking Football PlayGrounds.
