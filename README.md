@@ -2,7 +2,9 @@
 
 a Motivated 3rd-year Computer Science student currently studying at Cairo University interested in gaining more skills in software engineering practices, problem-solving, and I also have a high interest in building real projects and research.
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=youssefshawkat&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
+
 
 - 🌱 I’m currently learning ...
 
