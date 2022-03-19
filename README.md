@@ -19,26 +19,49 @@ Here are some ideas to get you started:
 - Competitive Programming
 - 
 👨‍💻 My Projects ...
-<p><a href="https://github.com/youssefshawkat/GoFo">GoFo</a></p>
+
 -A Program for booking Football PlayGrounds.
-<p><a href="https://github.com/youssefshawkat/CLI">CLI</a></p>
+
+<p><a href="https://github.com/youssefshawkat/GoFo">GoFo</a></p>
+
 -Linux Command Line Interpreter Using Java.
-<p><a href="https://github.com/youssefshawkat/CalculatorJS">CalculatorJS</a></p>
+
+<p><a href="https://github.com/youssefshawkat/CLI">CLI</a></p>
+
 -Calulator Using JavaScript, HTML and CSS.
-<p><a href="https://github.com/youssefshawkat/Assembly">Sum and Average Calculator</a></p>
+
+<p><a href="https://github.com/youssefshawkat/CalculatorJS">CalculatorJS</a></p>
+
 -Sum and Average Calculator Using Assembly AT&T.
-<p><a href="https://github.com/youssefshawkat/HuffmanCompression">Huffman Compression</a></p>
+
+<p><a href="https://github.com/youssefshawkat/Assembly">Sum and Average Calculator</a></p>
+
 -Huffman Compression Technique Simulator.
-<p><a href="https://github.com/youssefshawkat/LZ77Compression">LZ77 Compression</a></p>
+
+<p><a href="https://github.com/youssefshawkat/HuffmanCompression">Huffman Compression</a></p>
+
 -LZ77 Compression Technique Simulator.
+
+<p><a href="https://github.com/youssefshawkat/LZ77Compression">LZ77 Compression</a></p>
+
+-CPU Scheduling Simulator with GANTT Chart for Visualization. 
+
 <p><a href="https://github.com/youssefshawkat/CPUSchedulerSimulator">CPU Scheduler Simulator</a></p>
--CPU Scheduling Simulator with GANTT Diagram for Visualization. 
-<p><a href="https://github.com/youssefshawkat/LANCHAT">LAN GROUP CHAT</a></p>
+
 -Lan (and Public) Group Chat project with Dark Mode Using Java.
-<p><a href="https://github.com/youssefshawkat/Advanced-SW">Booking Rides Application</a></p>
+
+<p><a href="https://github.com/youssefshawkat/LANCHAT">LAN GROUP CHAT</a></p>
+
 -An Application for booking rides implemented using Advanced Software Engineering techniques such as design patterns and agile scrum methodologies.
-<p><a href="https://github.com/youssefshawkat/btree">B-Tree</a></p>
+
+<p><a href="https://github.com/youssefshawkat/Advanced-SW">Booking Rides Application</a></p>
+
 -B-Tree Data Structure.
-<p><a href="https://github.com/youssefshawkat/Synchronization">Synchronization </a></p>
+
+<p><a href="https://github.com/youssefshawkat/btree">B-Tree</a></p>
+
 -Java Synchronization Using Semaphores.
+
+<p><a href="https://github.com/youssefshawkat/Synchronization">Synchronization </a></p>
+
 
