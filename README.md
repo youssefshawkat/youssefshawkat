@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 
 👨‍💻 My Projects ...
 
--A Program for booking Football PlayGrounds.
+-A Program for Booking Football PlayGrounds.
 
 <p><a href="https://github.com/youssefshawkat/GoFo">GoFo</a></p>
 
