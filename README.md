@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Youssef Shawkat
 
-a Motivated 3rd-year Computer Science student currently studying at Cairo University interested in gaining more skills in software engineering practices, problem-solving, and have a high interest in building real projects and research.
+a Motivated 3rd-year Computer Science student currently studying at Cairo University interested in gaining more skills in software engineering practices, problem-solving, and I also have a high interest in building real projects and research.
 
 Here are some ideas to get you started:
 
