@@ -10,7 +10,7 @@ a Motivated 3rd-year Computer Science student currently studying at Cairo Univer
 
 
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
 - Computer Graphics
 - Concepts of Programming Languages
@@ -18,7 +18,7 @@ a Motivated 3rd-year Computer Science student currently studying at Cairo Univer
 - High Performance Computing
 - Computer Graphics
  
-- 👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate on ...
 
 - Open Source Projects
 - Hackathons
