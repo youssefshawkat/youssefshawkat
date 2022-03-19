@@ -1,3 +1,5 @@
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://github.com/youssefshawkat)
+&nbsp;
 ### Hi there 👋 This is Youssef Shawkat
 
 a Motivated 3rd-year Computer Science student currently studying at Cairo University interested in gaining more skills in software engineering practices, problem-solving, and I also have a high interest in building real projects and research.
