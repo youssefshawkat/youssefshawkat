@@ -75,4 +75,8 @@ a Motivated 3rd-year Computer Science student currently studying at Cairo Univer
 
 <p><a href="https://github.com/youssefshawkat/librarywebsite">Library Management System </a></p>
 
+-Router Simulation using Java Semaphore.
+
+<p><a href="https://github.com/youssefshawkat/Semaphores">Router Simulation Semaphore </a></p>
+
 
