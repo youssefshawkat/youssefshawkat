@@ -83,5 +83,7 @@ a Motivated 3rd-year Computer Science student currently studying at Cairo Univer
 
 <p><a href="https://github.com/youssefshawkat/DiskScheduling">Disk Scheduling Visualization</a></p>
 
+-My First Prolog Program.
 
+<p><a href="https://github.com/youssefshawkat/FirstPrologProject">Testing Prolog with knowledge base</a></p>
 
