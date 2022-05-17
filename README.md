@@ -8,6 +8,8 @@ a Motivated 3rd-year Computer Science student currently studying at Cairo Univer
 
 <img src="https://github-readme-stats.vercel.app/api?username=youssefshawkat&show_icons=true&theme=great-gatsby" width="400">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefshawkat)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 🌱 I’m currently learning ...
