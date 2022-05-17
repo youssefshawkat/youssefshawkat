@@ -6,7 +6,7 @@ a Motivated 3rd-year Computer Science student currently studying at Cairo Univer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youssefshawkat&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src=" https://github-readme-stats.vercel.app/api/pin/?username=youssefshawkatxgqfrms&amp;repo=learning" width="400">
+<img src=" https://github-readme-stats.vercel.app/api/pin/?username=youssefshawkat;repo=learning" width="400">
 
 
 
