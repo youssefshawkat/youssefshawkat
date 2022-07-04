@@ -2,7 +2,7 @@
 &nbsp;
 ### Hi there 👋 This is Youssef Shawkat
 
-a Motivated 3rd-year Computer Science student currently studying at Cairo University interested in gaining more skills in software engineering practices, problem-solving, and I have a high interest in building real projects and research.
+a Motivated 3rd-year Computer Science student currently studying at Cairo University interested in gaining more skills in software engineering practices, problem-solving, and I have a high interest in building projects and research.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youssefshawkat&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
