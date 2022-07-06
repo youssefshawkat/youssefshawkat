@@ -90,5 +90,9 @@ a Motivated 3rd-year Computer Science student currently studying at Cairo Univer
 <p><a href="https://github.com/youssefshawkat/FirstPrologProject">Testing Prolog with knowledge base</a></p>
 
 -Tic Tac Toe
+
 <p><a href="https://github.com/youssefshawkat/Tic-Tac-Toe">Tic Tac Toe with unbeatable SinglePlayer AI made by Minimax Algorithm</a></p>
 
+-YouTube Downloader
+
+<p><a href="https://github.com/youssefshawkat/YouTube-Downloader">YouTube Downloader using Python Simple GUI</a></p>
