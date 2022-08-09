@@ -14,12 +14,13 @@ a Motivated 3rd-year Computer Science student currently studying at Cairo Univer
 
 🌱 I’m currently learning ...
 
-- Computer Graphics
-- Concepts of Programming Languages
-- Aritifical Inteligence
-- High Performance Computing
-- Computer Graphics
- 
+-Practice Agile Methodologies.
+-Clean Code.
+-Advanced Algorithms.
+-Practice Solid Principles and Design Patterns.
+-Kotlin.
+-Android Software Development 
+
 👯 I’m looking to collaborate on ...
 
 - Open Source Projects
