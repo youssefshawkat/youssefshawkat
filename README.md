@@ -100,5 +100,5 @@ a Motivated 3rd-year Computer Science student currently studying at Cairo Univer
 
 -Android Shopping App 
 
-<p><a href="https://github.com/youssefshawkat/Bank-Misr-Shopping-App-Project">Android Shopping App Using MVVM , Live Data , Glide and RetrofitI</a></p>
+<p><a href="https://github.com/youssefshawkat/Bank-Misr-Shopping-App-Project">Android Shopping App Using MVVM , Live Data , Glide and Retrofit</a></p>
 
