@@ -8,7 +8,7 @@ Senior Computer Science student currently studying at Cairo University intereste
 
 <img src="[https://github-readme-stats.vercel.app](https://readme-stats.kyrie25.me)/api?username=youssefshawkat&show_icons=true&theme=great-gatsby" width="400">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefshawkat&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app](https://readme-stats.kyrie25.me)/api/top-langs/?username=youssefshawkat&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
