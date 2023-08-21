@@ -14,7 +14,7 @@ Senior Computer Science student currently studying at Cairo University intereste
 - Clean Code.
 - Advanced Algorithms.
 - Practice Solid Principles and Design Patterns.
-- Node.js.
+- SpringBoot.
 - Backend Software Development 
 
 👯 I’m looking to collaborate on ...
