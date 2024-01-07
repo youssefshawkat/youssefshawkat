@@ -34,10 +34,6 @@ Senior Computer Science student currently studying at Cairo University intereste
 
 <p><a href="https://github.com/youssefshawkat/CLI">CLI</a></p>
 
--Calulator Using JavaScript, HTML and CSS.
-
-<p><a href="https://github.com/youssefshawkat/CalculatorJS">CalculatorJS</a></p>
-
 -Sum and Average Calculator Using Assembly AT&T.
 
 <p><a href="https://github.com/youssefshawkat/Assembly">Sum and Average Calculator</a></p>
